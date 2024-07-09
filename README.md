@@ -1,2 +1,2 @@
 # StoryTeller
-Inspired by news, tasks and sports
+Inspired by news, logic tasks and sports
